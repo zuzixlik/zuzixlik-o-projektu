@@ -1,0 +1,61 @@
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #337dbd;
+  font-family: sans-serif;
+  font-size: 14px;
+  padding: 5%;
+  margin: 5%;
+}
+.kontejner {
+  background-color: moccasin;
+  padding: 5% 10% 10% 10%;
+}
+
+.intro {
+  padding: 10%;
+  margin: 5%;
+}
+h1 {
+  text-align: center;
+}
+.pouziti {
+  align-items: center;
+}
+
+h3 {
+  margin-top: 10%;
+}
+
+.osoba {
+  padding: 20px;
+  border: 1px solid #337dbd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 255, 255, 0.15);
+}
+
+.osoba_popis h2 {
+  font-size: 18px;
+}
+
+.osoba_popis p {
+  margin-bottom: 10px;
+}
+
+.osoba {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.osoba_foto img {
+  border-radius: 50%;
+  width: 60px;
+}
+
+.apka {
+  width: 400px;
+}
